@@ -1,4 +1,4 @@
-public class WMP1_001
+public class SleepIn{
 	public boolean sleepIn(boolean weekday, boolean vacation){
 		if (vacation == true){
 			return true;
